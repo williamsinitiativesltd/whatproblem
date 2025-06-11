@@ -16,4 +16,4 @@ Welcome to the official support repository for WhatProblem AI.
 - [Terms of Service](https://whatproblem.dev/terms)
 
 ## Beta Program
-We're currently in beta! First 100 installs receive 150 responses/month free during the beta period.
+We're currently in beta! 🎁 First 100 installs receive 150 responses/month free during the beta period.
