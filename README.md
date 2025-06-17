@@ -7,7 +7,7 @@ Welcome to the official support repository for WhatProblem AI.
 - 🐛 **Bug Reports:** [Create an issue](https://github.com/williamsinitiativesltd/whatproblem/issues/new)
 - 💡 **Feature Requests:** [Create an issue](https://github.com/williamsinitiativesltd/whatproblem/issues/new)
 - 📚 **Documentation:** [Coming soon]
-- 💬 **Discussions:** [Coming soon]
+- 💬 **Discussions:** [Coming soon](https://github.com/williamsinitiativesltd/whatproblem/discussions)
 
 ## Quick Links
 - [WhatProblem AI on GitHub Marketplace](https://github.com/marketplace/whatproblem-ai-requirements-clarification-bot)
