@@ -32,4 +32,4 @@ The bot posts a note on the issue when this happens, so check whether one appear
 
 Then it is us, and we want to know. GitHub does not retry a webhook it has already delivered, so a response we fail to send is gone: nothing will arrive later, and we are not told it happened.
 
-[Tell us about it.](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=no-response.yml) A link to the issue is enough to start.
+[Email us.](mailto:support@whatproblem.dev) A link to the issue and the account it is installed on is enough to start. We look this one up in our own logs, so it goes to us privately rather than into the public tracker.
