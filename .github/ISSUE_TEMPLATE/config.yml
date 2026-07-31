@@ -1,8 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Question or idea
-    url: https://github.com/williamsinitiativesltd/whatproblem/discussions
-    about: For anything that is not a bug or a billing question, a discussion is a better home.
   - name: Data protection
     url: https://whatproblem.dev/privacy
     about: Privacy policy. For data protection requests, email dataprotection@whatproblem.dev rather than filing publicly.
