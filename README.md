@@ -57,4 +57,4 @@ WhatProblem is in beta. The first 100 installations get 150 clarified issues a m
 
 ## Legal
 
-[Privacy policy](https://whatproblem.dev/privacy) · [Terms of service](https://whatproblem.dev/terms) · Data protection enquiries: dataprotection@whatproblem.dev
+[Privacy policy](https://whatproblem.dev/privacy) · [Terms of service](https://whatproblem.dev/terms)
