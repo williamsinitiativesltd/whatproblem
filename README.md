@@ -12,12 +12,14 @@ WhatProblem reads new issues on your repositories and asks the questions that ar
 
 | What's wrong | Where to go |
 |---|---|
-| The bot did not respond to an issue | [Report it](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=no-response.yml) |
-| Something is broken or wrong | [Report a bug](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=bug.yml) |
-| A question about plans or limits | [Ask](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=billing.yml) |
-| An idea, or a question about how it works | [Open an issue](https://github.com/williamsinitiativesltd/whatproblem/issues/new) |
+| How it works, what counts against an allowance, an idea | [Ask in public](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=question.yml) |
+| The bot said something wrong | [Report a bug](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=bug.yml) |
+| The bot did not respond at all | [Email us](mailto:support@whatproblem.dev) |
+| Your account, your allowance, your plan | [Email us](mailto:support@whatproblem.dev) |
 
 Issues here are read by the person who builds the thing. There is no ticket queue.
+
+Anything that needs us to look at **your** installation goes to [support@whatproblem.dev](mailto:support@whatproblem.dev) rather than into a public thread, on every plan including the free one. [More on the split](docs/getting-help.md).
 
 ## How to use it
 
