@@ -33,9 +33,8 @@ payment, so they are the only ones who can act on it. Manage a plan from the
 [Marketplace listing](https://github.com/marketplace/whatproblem-ai-requirements-clarification-bot),
 and take an unexpected charge to [GitHub billing support](https://support.github.com/contact).
 
-Data protection requests go to
-[dataprotection@whatproblem.dev](mailto:dataprotection@whatproblem.dev). See the
-[privacy policy](https://whatproblem.dev/privacy).
+Data protection requests are handled under the
+[privacy policy](https://whatproblem.dev/privacy), which has the address to use and what we hold.
 
 ## How quickly
 
