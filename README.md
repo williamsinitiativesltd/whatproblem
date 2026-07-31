@@ -10,7 +10,7 @@ WhatProblem reads new issues on your repositories and asks the questions that ar
 
 ## I need help with something
 
-| | |
+| What's wrong | Where to go |
 |---|---|
 | The bot did not respond to an issue | [Report it](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=no-response.yml) |
 | Something is broken or wrong | [Report a bug](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=bug.yml) |
