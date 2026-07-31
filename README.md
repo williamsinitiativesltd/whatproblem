@@ -15,7 +15,7 @@ WhatProblem reads new issues on your repositories and asks the questions that ar
 | The bot did not respond to an issue | [Report it](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=no-response.yml) |
 | Something is broken or wrong | [Report a bug](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=bug.yml) |
 | A question about plans, limits or billing | [Ask](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=billing.yml) |
-| An idea, or a question about how it works | [Start a discussion](https://github.com/williamsinitiativesltd/whatproblem/discussions) |
+| An idea, or a question about how it works | [Open an issue](https://github.com/williamsinitiativesltd/whatproblem/issues/new) |
 
 Issues here are read by the person who builds the thing. There is no ticket queue.
 
