@@ -31,6 +31,6 @@ Paid plans are on the way. Beta testers will be given notice and offered a found
 
 ## Changing or cancelling
 
-Plans are managed through the [GitHub Marketplace listing](https://github.com/marketplace/whatproblem-ai-requirements-clarification-bot), not here. GitHub handles all billing; we never see your payment details.
+Plans are managed through the [GitHub Marketplace listing](https://github.com/marketplace/whatproblem-ai-requirements-clarification-bot), not here. GitHub handles all billing; we never see your payment details. A charge you did not expect is theirs to explain and theirs to refund: [GitHub billing support](https://support.github.com/contact).
 
-Questions about a specific account: [open a billing issue](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=billing.yml).
+Questions about how the allowance works: [ask here](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=billing.yml).
