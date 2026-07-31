@@ -1,7 +1,17 @@
-name: Plans, limits or billing
-description: A question about your allowance, your plan, or a charge
+name: Plans and limits
+description: A question about your allowance or how it is counted
 labels: ["billing"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        **Changing a plan, cancelling, and anything to do with a charge is handled by GitHub rather than here.**
+        GitHub takes the payment and issues any refund, so they are the ones who can act on it.
+        Manage your plan from the [Marketplace listing](https://github.com/marketplace/whatproblem-ai-requirements-clarification-bot), and take a charge you did not
+        expect to [GitHub billing support](https://support.github.com/contact).
+
+        This form is for how the allowance itself works: what counts against it, and what happens
+        when you run out.
   - type: input
     id: account
     attributes:
@@ -16,15 +26,16 @@ body:
       options:
         - I have run out of my monthly allowance
         - I do not understand what counts against my allowance
-        - I want to change or cancel my plan
-        - A charge I did not expect
-        - Something else
+        - The number I am seeing looks wrong
+        - Something else about how allowances work
     validations:
       required: true
   - type: textarea
     id: detail
     attributes:
       label: Details
+      description: |
+        No need to name a private repository. "a private repo" is enough, we can find it from the account name.
     validations:
       required: true
   - type: markdown
