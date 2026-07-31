@@ -2,13 +2,18 @@ name: Bug report
 description: The bot responded, but something about it was wrong
 labels: ["bug"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        For a public repository, a link is the fastest way for us to see it. If the
+        repository is private, or you would rather not name it here, email
+        <support@whatproblem.dev> instead and we will take it from there.
   - type: input
     id: issue-url
     attributes:
       label: Link to the issue or comment
+      description: Leave blank if the repository is private. Do not paste the name of a private repository.
       placeholder: https://github.com/owner/repo/issues/123#issuecomment-...
-    validations:
-      required: true
   - type: textarea
     id: expected
     attributes:
