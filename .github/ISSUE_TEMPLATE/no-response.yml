@@ -1,0 +1,42 @@
+name: The bot did not respond
+description: An issue was opened but WhatProblem never commented on it
+labels: ["no-response"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before filing, two things account for most cases:
+
+        - **Was the issue opened by a bot?** We skip issues from CI robots, linters and dependency bots.
+        - **Is it a pull request?** We never comment on those.
+
+        If neither applies, we want to know. We do not get told when a response fails to send.
+  - type: input
+    id: issue-url
+    attributes:
+      label: Link to the issue
+      placeholder: https://github.com/owner/repo/issues/123
+    validations:
+      required: true
+  - type: input
+    id: account
+    attributes:
+      label: The account the app is installed on
+      description: Your GitHub username or organization name.
+    validations:
+      required: true
+  - type: dropdown
+    id: private
+    attributes:
+      label: Is the repository private?
+      description: If it is, we cannot look at the issue ourselves and will need you to describe it.
+      options:
+        - "No, it's public"
+        - "Yes, it's private"
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Anything else
+      description: Has it worked before on this repository? Did it stop suddenly?
