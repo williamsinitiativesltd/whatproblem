@@ -33,4 +33,4 @@ Paid plans are on the way. Beta testers will be given notice and offered a found
 
 Plans are managed through the [GitHub Marketplace listing](https://github.com/marketplace/whatproblem-ai-requirements-clarification-bot), not here. GitHub handles all billing; we never see your payment details. A charge you did not expect is theirs to explain and theirs to refund: [GitHub billing support](https://support.github.com/contact).
 
-Questions about how the allowance works: [ask here](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=billing.yml).
+Questions about how the allowance works: [ask in public](https://github.com/williamsinitiativesltd/whatproblem/issues/new?template=question.yml). Questions about **your** allowance: [support@whatproblem.dev](mailto:support@whatproblem.dev), so your account details stay off a public thread.
