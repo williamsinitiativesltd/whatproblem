@@ -1,0 +1,36 @@
+name: Question or idea
+description: How something works, what counts against an allowance, or something you would like it to do
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is the public tracker, so it is for questions whose answers are useful to
+        everyone. If the answer depends on your account, your allowance or your repositories,
+        email <support@whatproblem.dev> instead and nothing goes into a public thread.
+
+        [Using the bot](https://github.com/williamsinitiativesltd/whatproblem/blob/main/docs/using-the-bot.md)
+        and [plans and limits](https://github.com/williamsinitiativesltd/whatproblem/blob/main/docs/plans-and-limits.md)
+        may already answer it.
+  - type: dropdown
+    id: topic
+    attributes:
+      label: What is this about
+      options:
+        - How the bot behaves
+        - What counts against an allowance
+        - Something I would like it to do
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        No account names, repository names, tokens or payment details here please. This
+        repository is public. Email <support@whatproblem.dev> for anything of that kind.
