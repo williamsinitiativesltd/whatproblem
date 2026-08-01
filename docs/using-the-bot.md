@@ -11,9 +11,7 @@ You do not have to answer. If the issue was already clear, the bot says so and l
 Comment any of these on an issue the bot has not already handled:
 
 ```
-!analyze
-!whatproblem
-@whatproblem analyze
+!whatproblem analyze
 ```
 
 ## Making it stop
@@ -21,12 +19,10 @@ Comment any of these on an issue the bot has not already handled:
 Comment any of these and it will leave that issue alone:
 
 ```
-@whatproblem stop
-@bot stop
-stop analyzing this issue
+!whatproblem stop
 ```
 
-There is no undo on a per-issue basis: once stopped, that issue stays stopped.
+Stopping applies to that issue only. To bring the bot back to it later, comment `!whatproblem analyze`. Older command forms still work: see [Commands](commands.md).
 
 To stop it everywhere, uninstall the app from **Settings → Applications → WhatProblem AI**, or remove individual repositories from the installation.
 
