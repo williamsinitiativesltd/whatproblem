@@ -28,16 +28,16 @@ Open an issue. That is the whole of it: the bot replies within a minute or two.
 To call it onto an issue that already exists, comment:
 
 ```
-!analyze
+!whatproblem analyze
 ```
 
 To make it stop on a particular issue:
 
 ```
-@whatproblem stop
+!whatproblem stop
 ```
 
-More detail in [Using the bot](docs/using-the-bot.md).
+Every command is on one page: [Commands](docs/commands.md). More detail in [Using the bot](docs/using-the-bot.md).
 
 ## What it does not touch
 
