@@ -18,11 +18,11 @@ The app can be installed on a subset of repositories. Check **Settings → Appli
 
 ### 4. Has someone told it to stop on that issue?
 
-A comment like `@whatproblem stop` anywhere in the thread ends it permanently for that issue. Scroll the thread.
+A comment like `!whatproblem stop` anywhere in the thread ends it for that issue. Scroll the thread. To undo it, comment `!whatproblem analyze`.
 
 ### 5. Is the conversation older than 24 hours?
 
-Conversations close themselves after a day of silence, so a reply to a two-day-old thread will not wake it. Comment `!analyze` to start again.
+Conversations close themselves after a day of silence, so a reply to a two-day-old thread will not wake it. Comment `!whatproblem analyze` to start again.
 
 ### 6. Have you used up the month's allowance?
 
