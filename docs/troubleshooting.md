@@ -28,11 +28,15 @@ the thread. To undo it, comment `!whatproblem analyze`. Stopping is per issue, s
 nothing about the rest of the repository.
 [Every command is on one page.](https://whatproblem.dev/commands)
 
-### 5. Had the thread been quiet for more than 24 hours?
+### 5. Had the thread been quiet for more than a week?
 
-If the last activity on the issue was over a day before your comment, the bot treats the
-conversation as finished and your comment gets no reply. Comment `!whatproblem analyze` to pick
-it up again, which works whatever the gap.
+If the last activity on the issue was over a week before your comment, the bot treats the
+conversation as finished and does not analyse that comment. It does reply once to say so, so if
+you got no response at all this is not the reason.
+
+Comment `!whatproblem analyze` to pick it up again, which works whatever the gap. The bot re-reads
+the whole issue when it does, so anything you posted in the meantime is taken into account without
+repeating it.
 
 ### 6. Have you used up the month's allowance?
 
