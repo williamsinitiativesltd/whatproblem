@@ -6,7 +6,7 @@ Work down this list. The first three cover almost everything.
 
 WhatProblem skips issues from CI robots, linters and dependency bots (`github-actions[bot]`, `renovate[bot]`, Copilot and similar). This is deliberate: it keeps your allowance for issues your team wrote.
 
-The first time it happens on a repository, the bot leaves one note saying so, then stays quiet about it.
+The bot leaves a note saying so, at most once a month per repository, then stays quiet about it.
 
 ### 2. Is it a pull request?
 
