@@ -27,11 +27,11 @@ A conversation already in progress is never cut off partway through, even if you
 
 WhatProblem is in beta. The first 100 installations receive **150 clarified issues a month, free**.
 
-The beta allowance runs until **1 September 2026**. After that, an account that has not moved to a paid plan uses the Free allowance of 10 clarified issues a month.
+The beta allowance runs until **1 November 2026**. After that, an account that has not moved to a paid plan uses the Free allowance of 10 clarified issues a month.
 
 Two things about that date are worth saying plainly:
 
-- **Nothing changes until the paid plans are actually on sale.** If they are not published by 1 September, the beta allowance simply carries on until they are. Nobody is dropped to a smaller allowance with nowhere to go.
+- **Nothing changes until the paid plans are actually on sale.** If they are not published by 1 November, the beta allowance simply carries on until they are. Nobody is dropped to a smaller allowance with nowhere to go.
 - **You will hear about it before it happens, not after.** Beta testers get at least two weeks' notice, posted in the issue thread where you will actually see it, along with a founder price that is not offered to anyone else.
 
 ## Changing or cancelling
