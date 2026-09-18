@@ -37,7 +37,7 @@ To make it stop on a particular issue:
 !whatproblem stop
 ```
 
-Every command is on one page: [Commands](docs/commands.md). More detail in [Using the bot](docs/using-the-bot.md).
+Every command is on one page: [Commands](https://whatproblem.dev/commands). More detail in [How it works](https://whatproblem.dev/using-the-bot).
 
 ## What it does not touch
 
@@ -47,13 +47,18 @@ Every command is on one page: [Commands](docs/commands.md). More detail in [Usin
 
 ## Documentation
 
-- [Using the bot](docs/using-the-bot.md) — triggers, stopping it, what a conversation looks like
-- [Plans and limits](docs/plans-and-limits.md) — what counts against your allowance and what does not
-- [Troubleshooting](docs/troubleshooting.md) — when the bot does not respond
+What the bot does lives on the site. What to do when it misbehaves lives here, next to the
+tracker you would file on.
+
+- [How it works](https://whatproblem.dev/using-the-bot): triggers, stopping it, what a conversation looks like
+- [Commands](https://whatproblem.dev/commands): every command, and what stopping applies to
+- [Plans and limits](https://whatproblem.dev/plans-and-limits): what counts against your allowance and what does not
+- [Troubleshooting](docs/troubleshooting.md): when the bot does not respond
+- [Getting help](docs/getting-help.md): public tracker versus private email
 
 ## Beta
 
-WhatProblem is in beta. The first 100 installations get 150 clarified issues a month, free, for the duration of the beta. Paid plans are coming; beta testers will be offered a founder price before anything changes.
+WhatProblem is in beta. The beta is open to the first 100 installations, which is where it closes, and each of them gets 150 clarified issues a month free. Paid plans are coming; beta testers will be offered a founder price before anything changes. [The detail.](https://whatproblem.dev/plans-and-limits)
 
 ## Legal
 
