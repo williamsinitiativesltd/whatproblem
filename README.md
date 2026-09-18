@@ -42,7 +42,7 @@ Every command is on one page: [Commands](docs/commands.md). More detail in [Usin
 ## What it does not touch
 
 - **Pull requests.** Never commented on.
-- **Issues opened by bots.** CI robots, linters and dependency bots are skipped, so your allowance goes on issues your team wrote. The first time this happens on a repository the bot leaves one note explaining why.
+- **Issues opened by bots.** CI robots, linters and dependency bots are skipped, so your allowance goes on issues your team wrote. The bot leaves a note explaining why, at most once a month per repository.
 - **Anything after you tell it to stop.**
 
 ## Documentation
